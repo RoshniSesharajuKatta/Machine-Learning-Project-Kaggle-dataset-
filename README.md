@@ -12,4 +12,4 @@ Software and Packages Requirement:
 The dataset was taken from Kaggle.
 Downloaded from: https://www.kaggle.com/c/afsis-soil-properties/data
 
-The project is about predicting the Africa Soil Properties. Here, soil property is predicted by using the predictions of these 5 target variables: SOC, pH, Ca, P, Sand 
+This project is about Africa Soil Property Prediction. Here, soil property is predicted by using the predictions of these 5 target variables: SOC, pH, Ca, P, Sand 
